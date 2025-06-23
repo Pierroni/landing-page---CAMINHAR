@@ -63,3 +63,8 @@ Acesse pelo link abaixo:
 
 Acesse o link abaixo para visualizar o portfólio:
 - <a href="https://www.behance.net/gallery/228815107/LandPage-Caminhar">https://www.behance.net/gallery/228815107/LandPage-Caminhar</a>
+
+### Documentação do Projeto
+
+Acesse pelo link abaixo:
+- <a href="https://docs.google.com/document/d/1hJ2Pi_J1jCIkcfec0L4K2bWoAe6loS-V/edit?usp=sharing&ouid=101691491855678288958&rtpof=true&sd=true">https://docs.google.com/document/d/1hJ2Pi_J1jCIkcfec0L4K2bWoAe6loS-V/edit?usp=sharing&ouid=101691491855678288958&rtpof=true&sd=true</a>
