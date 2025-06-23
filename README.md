@@ -50,8 +50,9 @@ João Pedro Pierroni da Silva – Desenvolvedor
 
 Rillary Gabrielly da Silva - Desenvolvedora
 
-Professor Responsável: Prof. Me. Carlos Alberto Lucas
-
+Professores Responsáveeis: 
+- Prof. Carlos Alberto Lucas
+- Prof. Jorge Luís Takahashi Hattori
 ---
 
 ### Vídeo de Apresentação do Projeto
